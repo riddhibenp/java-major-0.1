@@ -1,4 +1,4 @@
-package com.example;
+package com.example.cybage.entity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

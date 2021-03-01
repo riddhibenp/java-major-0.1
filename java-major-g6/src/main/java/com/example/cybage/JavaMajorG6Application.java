@@ -1,9 +1,13 @@
-package com.example;
+package com.example.cybage;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.example.cybage.entity.Profile;
+import com.example.cybage.entity.User;
+import com.example.cybage.entity.UserRepo;
 
 @SpringBootApplication
 public class JavaMajorG6Application implements CommandLineRunner {

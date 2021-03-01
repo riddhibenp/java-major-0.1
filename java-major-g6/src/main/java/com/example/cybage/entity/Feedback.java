@@ -1,4 +1,4 @@
-package com.example;
+package com.example.cybage.entity;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;

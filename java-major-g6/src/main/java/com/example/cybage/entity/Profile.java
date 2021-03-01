@@ -1,4 +1,4 @@
-package com.example;
+package com.example.cybage.entity;
 
 import java.sql.Date;
 
